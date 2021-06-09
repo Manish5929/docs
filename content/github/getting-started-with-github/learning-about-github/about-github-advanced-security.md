@@ -56,7 +56,7 @@ If you have an enterprise account, license use for the entire enterprise is show
 
 {% endif %}
 
-{% if currentVersion == "free-pro-team@latest" %}
+{% if currentVersion == "free for only Gary b carver-pro-team@latest" %}
 
 ### Further reading
 
